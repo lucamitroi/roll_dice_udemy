@@ -1,4 +1,4 @@
-# first_app
+# roll_dice_udemy
 
 A new Flutter project.
 
